@@ -7,7 +7,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## О проекте
 
 
 Тестирование сайта Ростелекома: <br />
